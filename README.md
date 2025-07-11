@@ -138,7 +138,7 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ## 📧 Contact
 
-For queries, contact [your-email@example.com](mailto:your-email@example.com)
+For queries, contact pritam2chatterjee@gmail.com
 
 ---
 
